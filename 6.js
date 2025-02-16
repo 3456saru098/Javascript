@@ -13,3 +13,8 @@ const Saru={
 // const NewSaru={...Saru,qualification:"Bachelor Running"};
 const newSaru={...Saru,age:45}
 console.log(newSaru)
+
+
+//JSON(Javascript Object Notation Program)
+// JSON is the lightweight object notation format.
+// It is mainly used to exchange data between a server and a web application or frontend.
